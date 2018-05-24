@@ -10,7 +10,6 @@ Latest documentation is posted on http://app-db-cybertech.readthedocs.io
 
    overview
    installation_and_configuration
-   user_guide
    dashboards
    release_notes
    glossary
