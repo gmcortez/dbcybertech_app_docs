@@ -6,7 +6,7 @@ About the DB Cybertech Splunk App
 
 The DB Cybertech DB-Security appliance uses syslog to provide event reporting to a central Security Information and Event Management (SIEM) system and to report general system health information. Syslog output is encoded in the Common Event Format (CEF), which allows easy integration into a number of common security information and event management (SIEM), and log-analysis tools. DB Cybertech Splunk App is an add-on for Splunk that installs custom dashboards to monitor the important events that these logs generates.  These includes Service/Client/User Discovery, Application Security Events, Insider Threat Events, and Vital Health Counters.
 
-For better performance, it is strongly suggested to install the `DB Cybertech Add-on for Splunk <https://splunkbase.splunk.com/app/3587/>`_ prior to installing `DB Cybertech Splunk App <https://splunkbase.splunk.com/app/xxxx/>`_.
+For better performance, it is strongly suggested to install the `DB Cybertech Add-on for Splunk <https://splunkbase.splunk.com/app/3587/>`_ prior to installing `DB Cybertech Splunk App <https://splunkbase.splunk.com/app/4036/>`_.
 
 
 
@@ -30,7 +30,7 @@ This App is avalible on SplunkBase. Or you can clone this github repo into your 
 
 **Splunkbase:**::
 
-  https://splunkbase.splunk.com/app/xxxx/  (under validation)
+  https://splunkbase.splunk.com/app/4036/  (under validation)
 
 **Clone:**::
 
