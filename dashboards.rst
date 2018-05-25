@@ -70,13 +70,14 @@ To use this dashboard, you have to provide the following input on the top of the
   4. Select Time Period:  select the time period that you would like to monitor.  For SOC operations, a 3 to 5 days span is more than enough.  For investigation purposes, a longer time span may be needed. When the DB-Security appliance is newly installed and currently in learning period, it may take a couple of weeks before you see an event on this dashboard.
   5.  Choose span:  this is used to generate the graphs, the smaller the span, the longer it takes to load the graph.
 
+Screenshot: Insider Threat Event Dashboard
 
-.. image:: images/4.png
-   :height: 811px
-   :width: 1423px
-   :scale: 40%
-   :alt: Application Security Dashboard
-   :align: left
+  .. image:: images/4.png
+     :height: 811px
+     :width: 1423px
+     :scale: 40%
+     :alt: Insider Threat Event Dashboard
+     :align: left
 
 
 
@@ -117,9 +118,11 @@ To use this dashboard, you have to provide the following input on the top of the
   4. Select Time Period:  select the time period that you would like to monitor.  For SOC operations, a 3 to 5 days span is more than enough.  For investigation purposes, a longer time span may be needed.
   5.  Choose span:  this is used to generate the graphs, the smaller the span, the longer it takes to load the graph. If you would like to view 1 month or greater time period, choose a span of 1 hour or greater to load the graphs faster.
 
-.. image:: images/5.png
-   :height: 829px
-   :width: 1419px
-   :scale: 40%
-   :alt: Application Security Dashboard
-   :align: left
+Screenshot: Vital Counters and Health Dashboard
+
+  .. image:: images/5.png
+     :height: 829px
+     :width: 1419px
+     :scale: 40%
+     :alt: Vital Counters and Health Dashboard
+     :align: left
