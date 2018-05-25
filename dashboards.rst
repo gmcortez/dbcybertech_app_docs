@@ -78,6 +78,8 @@ To use this dashboard, you have to provide the following input on the top of the
    :alt: Application Security Dashboard
    :align: left
 
+
+
 Vital Counter Rates and Health per Machine
 ------------------------------------------
 
