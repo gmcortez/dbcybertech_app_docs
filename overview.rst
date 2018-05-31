@@ -18,8 +18,8 @@ Splunk/DBN Version Compatibility
 
 =============== ============= ============
 Splunk Version  App Version   DBN Version
-Splunk 6.6.0 -  1.0.0         3.x.x 
-Splunk 7.1.0    1.0.0         3.x.x
+Splunk 6.6.0 -  1.0.2         3.x.x 
+Splunk 7.1.0    1.0.2         3.x.x
 =============== ============= ============
 
 
@@ -30,7 +30,7 @@ This App is avalible on SplunkBase. Or you can clone this github repo into your 
 
 **Splunkbase:**::
 
-  https://splunkbase.splunk.com/app/4036/  (under validation)
+  https://splunkbase.splunk.com/app/4042/  
 
 **Clone:**::
 
